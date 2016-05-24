@@ -1,0 +1,29 @@
+
+h1 {
+  color: red;
+  font-style: italic;
+  line-height: inherit;
+  font-size: 38px;
+}
+p {
+  color: black;
+  text-align: center;
+  font-style: normal;
+  font-weight: normal;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: normal;
+
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; }
+
+li {
+  font-size: 20px;
+  text-align:left;
+  font-style: italic;
+  line-height: 20px;
+}
